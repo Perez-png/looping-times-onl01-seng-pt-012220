@@ -1,4 +1,9 @@
-jewels_in_the_bag = 100
+7. times do
+  puts "Wingdarium Leviosa!"
+end
+
+
+in_the_bag = 100
 
 3.times do
   puts "Hiding 10 stolen
